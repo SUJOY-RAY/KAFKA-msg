@@ -1,4 +1,4 @@
-package com.messaging.kafkamsg;
+package com.kafkamsg;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
